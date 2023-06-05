@@ -50,7 +50,7 @@ function generatePassword() {
   var wantsNumbers = caughtUserinfo[2];
   var watntsSpecialCharacters = caughtUserinfo[3]
   var desiredAmount = caughtUserinfo[4];
-  var password = '';
+  var passcode = '';
   var combinedChars = [];
 
 
